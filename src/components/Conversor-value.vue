@@ -26,8 +26,8 @@ export default {
       var options = {
         method: "GET",
         headers: {
-          "X-RapidAPI-Key": "e87b48f408msh114494fe2752bcfp1e2265jsn4844176ce9f6",
-          "X-RapidAPI-Host": "currency-converter5.p.rapidapi.com",
+          "X-RapidAPI-Key": "y",
+          "X-RapidAPI-Host": "x",
         },
       };
 
